@@ -1,7 +1,7 @@
 <div align="center">
 
-  <!-- Lowlighter Full Responsive Metrics SVG Dashboard -->
-  <img src="https://raw.githubusercontent.com/pabeledp/pabeledp/main/github-metrics.svg" alt="GitHub Metrics Dashboard" width="100%" />
+  <!-- Fixed Crisp Scale Lowlighter Dashboard -->
+  <img src="https://raw.githubusercontent.com/pabeledp/pabeledp/main/github-metrics.svg" alt="GitHub Metrics Dashboard" width="480" style="max-width: 100%; height: auto;" />
 
   <br/><br/>
 
