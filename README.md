@@ -1,15 +1,47 @@
-<div align="center">
+# 👋 Hey, I'm A M Pabel ⚡
 
-  <!-- Fixed Crisp Scale Lowlighter Dashboard -->
-  <img src="https://raw.githubusercontent.com/pabeledp/pabeledp/main/github-metrics.svg" alt="GitHub Metrics Dashboard" width="480" style="max-width: 100%; height: auto;" />
+```typescript
+const pabel = {
+  role: "Vibe Coder & Full-Stack AI Engineer",
+  venture: "Founder @FramEmpire",
+  location: "Uttara, Dhaka, Bangladesh 🇧🇩",
+  mindset: "Prompt to Production • Building at the speed of thought",
+  coreFocus: ["AI-Native Apps", "Next.js Systems", "Rapid Prototyping"]
+};
+```
 
-  <br/><br/>
+---
 
-  <p align="center">
-    <a href="https://www.ampabel.com"><img src="https://img.shields.io/badge/Website-ampabel.com-21262d?style=flat-square&logo=google-chrome&logoColor=58a6ff" alt="Website" /></a>
-    <a href="https://bd.linkedin.com/in/pabeledp"><img src="https://img.shields.io/badge/LinkedIn-pabeledp-21262d?style=flat-square&logo=linkedin&logoColor=58a6ff" alt="LinkedIn" /></a>
-    <a href="https://www.facebook.com/ProductiveEDP"><img src="https://img.shields.io/badge/Facebook-ProductiveEDP-21262d?style=flat-square&logo=facebook&logoColor=58a6ff" alt="Facebook" /></a>
-    <a href="mailto:ampabel.edp@gmail.com"><img src="https://img.shields.io/badge/Email-ampabel.edp@gmail.com-21262d?style=flat-square&logo=gmail&logoColor=f85149" alt="Email" /></a>
-  </p>
+### 🛠️ Mastered Technologies & Stack
 
-</div>
+- **AI & Workflow**: Cursor, Claude 3.7 Sonnet, Gemini 2.5, GitHub Copilot, v0.dev, Prompt Engineering
+- **Frontend**: TypeScript, JavaScript (ES6+), React, Next.js, TailwindCSS, HTML5, CSS3
+- **Backend & Cloud**: Node.js, Python, REST APIs, Git, GitHub Actions, Vercel
+- **Creative & Design**: After Effects, Premiere Pro, Figma, UI/UX Design
+
+---
+
+### 🔥 Featured Repositories
+
+- 👗 **[GlamcusFashion](https://github.com/pabeledp/GlamcusFashion)** — Modern e-commerce and fashion showcase platform.
+- 🎨 **[Artora](https://github.com/pabeledp/Artora)** — Creative art & interactive digital media ecosystem by FramEmpire.
+- 🎓 **[education-bd](https://github.com/pabeledp/education-bd)** — Interactive educational portal & learning resources tailored for BD learners.
+- 🌐 **[Ibnu-Abil-Khair](https://github.com/pabeledp/Ibnu-Abil-Khair)** — Official creative portfolio showcase for Ecos De Papel.
+
+---
+
+### 📊 Real-Time GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=pabeledp&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=39d353&text_color=c9d1d9" height="150" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pabeledp&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" height="150" alt="Top Languages" />
+</p>
+
+---
+
+### 🌐 Connect With Me
+
+- 🌍 **Website**: [ampabel.com](https://www.ampabel.com)
+- 💼 **LinkedIn**: [linkedin.com/in/pabeledp](https://bd.linkedin.com/in/pabeledp)
+- 📘 **Facebook**: [facebook.com/ProductiveEDP](https://www.facebook.com/ProductiveEDP)
+- ✉️ **Email**: [ampabel.edp@gmail.com](mailto:ampabel.edp@gmail.com)
