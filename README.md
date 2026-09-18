@@ -1,10 +1,21 @@
 <div align="center">
 
-  <!-- Aesthetic Capsule Header Banner with High Contrast -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&custom_color_1=%237928CA&custom_color_2=%23FF0080&height=200&section=header&text=A%20M%20Pabel&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Vibe%20Coder%20%E2%9A%A1%20AI-Augmented%20Software%20Engineer&descFontSize=20&descAlignY=62&descColor=ffffff" width="100%" alt="Header Banner" />
+  <!-- Interactive Matrix / Cyberpunk Dynamic Header -->
+  <a href="https://ampabel.com">
+    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=Prompt%20to%20Production.%20Building%20the%20future%20at%20the%20speed%20of%20thought.&author=A%20M%20Pabel%20%E2%80%A2%20Vibe%20Coder" alt="Dynamic Vibe Quote" width="100%" />
+  </a>
+
+  <br/><br/>
+
+  <!-- High-Contrast Ultra Sharp Neon Terminal Typing Banner -->
+  <a href="https://ampabel.com">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=2500&pause=800&color=00F2FE&background=0D1117&center=true&vCenter=true&multiline=true&width=750&height=100&lines=%E2%9A%A1+A+M+PABEL+%E2%80%94+VIBE+CODER+%26+BUILDER;%F0%9F%9A%80+Architecting+AI-Native+Apps+%26+Next.js+Systems;%E2%9C%A8+Founder+%40FramEmpire+%E2%80%A2+Shipping+Fast+with+AI;" alt="Vibe Coder Typing Banner" />
+  </a>
+
+  <br/>
 
   <p align="center">
-    <a href="https://www.ampabel.com"><img src="https://img.shields.io/badge/Portfolio-ampabel.com-000000?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" /></a>
+    <a href="https://www.ampabel.com"><img src="https://img.shields.io/badge/Portfolio-ampabel.com-000000?style=for-the-badge&logo=google-chrome&logoColor=00F2FE" alt="Website" /></a>
     <a href="https://bd.linkedin.com/in/pabeledp"><img src="https://img.shields.io/badge/LinkedIn-pabeledp-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
     <a href="https://www.facebook.com/ProductiveEDP"><img src="https://img.shields.io/badge/Facebook-ProductiveEDP-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
     <a href="mailto:ampabel.edp@gmail.com"><img src="https://img.shields.io/badge/Email-ampabel.edp@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
@@ -14,22 +25,30 @@
 
 ---
 
-### ⚡ About Me
+### ⚡ The Vibe Coder Philosophy
 
-> **“Turning raw thoughts into high-performance software at the speed of AI.”**
+```typescript
+interface VibeCoder {
+  name: "A M Pabel";
+  role: "AI-Augmented Full-Stack Engineer";
+  venture: "Founder @FramEmpire";
+  location: "Uttara, Dhaka, Bangladesh 🇧🇩";
+  stack: ["Cursor", "Claude 3.7", "Gemini 2.5", "Next.js", "TypeScript", "Tailwind"];
+  motto: "Turn raw concepts into deployed reality at the speed of thought.";
+}
+```
 
-- 👨‍💻 **Role**: Vibe Coder & Full-Stack Creative Engineer
-- 🏢 **Founder**: [@FramEmpire](https://github.com/FramEmpire) — Engineering sleek digital products & creative tools
-- 📍 **Location**: Dhaka, Bangladesh 🇧🇩
-- 🚀 **Specialty**: AI Prompting & Orchestration, Full-Stack Next.js/TypeScript, Ultra-Fast Prototyping
+- 🚀 **Mission**: Building fluid, ultra-responsive digital experiences with modern web technologies & AI agents.
+- 🏢 **Founding**: [@FramEmpire](https://github.com/FramEmpire) — Building creative tools and digital media solutions.
+- 🎯 **Current Focus**: Multi-agent development pipelines & rapid AI-assisted prototyping.
 
 ---
 
-### 🛠️ Tech Stack & Superpowers
+### 🛠️ Superpowers & AI-First Stack
 
 <div align="center">
 
-#### 🤖 AI Workflows & Co-Pilots
+#### 🤖 AI Systems & Co-Pilots
 ![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)
 ![Claude](https://img.shields.io/badge/Claude_3.7-D97706?style=for-the-badge&logo=anthropic&logoColor=white)
 ![Gemini](https://img.shields.io/badge/Gemini_2.5-4285F4?style=for-the-badge&logo=google-gemini&logoColor=white)
@@ -75,7 +94,7 @@
 
 ---
 
-### 📊 GitHub Activity & Stats
+### 📊 Live Activity Radar
 
 <div align="center">
 
@@ -86,10 +105,15 @@
 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=pabeledp&theme=radical&hide_border=true" alt="GitHub Streak" width="96%" />
 
+  <br/><br/>
+
+  <!-- Interactive GitHub Contribution Snake Animation -->
+  <img src="https://raw.githubusercontent.com/pabeledp/pabeledp/output/github-contribution-grid-snake.svg" alt="Snake Animation" width="100%" onerror="this.style.display='none'" />
+
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&custom_color_1=%23FF0080&custom_color_2=%237928CA&height=90&section=footer" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&custom_color_1=%2300F2FE&custom_color_2=%234FACFE&height=70&section=footer" width="100%"/>
 </div>
