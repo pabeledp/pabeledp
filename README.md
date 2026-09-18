@@ -7,7 +7,7 @@
     <a href="https://www.ampabel.com"><img src="https://img.shields.io/badge/Portfolio-ampabel.com-000000?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" /></a>
     <a href="https://bd.linkedin.com/in/pabeledp"><img src="https://img.shields.io/badge/LinkedIn-pabeledp-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
     <a href="https://www.facebook.com/ProductiveEDP"><img src="https://img.shields.io/badge/Facebook-ProductiveEDP-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
-    <a href="mailto:contact@ampabel.com"><img src="https://img.shields.io/badge/Email-Get_in_Touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+    <a href="mailto:ampabel.edp@gmail.com"><img src="https://img.shields.io/badge/Email-ampabel.edp@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   </p>
 
 </div>
@@ -59,14 +59,18 @@
 ### 🔥 Featured Works
 
 ```
-├── 🌐 Ibnu-Abil-Khair  ── Official Portfolio & Creative Showcase for Ecos De Papel
-├── ⚡ FramEmpire        ── Digital Ventures, Tooling & Modern Web Ecosystem
-├── 🎓 education-bd     ── Interactive Educational Web Platform built with TypeScript
-└── 📚 Resource-Empire  ── Curated Tech Knowledge Base & Developer Resource Hub
+├── 👗 GlamcusFashion   ── [pabeledp/GlamcusFashion](https://github.com/pabeledp/GlamcusFashion)
+│                          Modern E-commerce & Fashion Showcase platform
+│
+├── 🎨 Artora           ── [pabeledp/Artora](https://github.com/pabeledp/Artora)
+│                          Creative Art & Digital Media Ecosystem by FramEmpire
+│
+└── 🎓 EducationBD      ── [pabeledp/education-bd](https://github.com/pabeledp/education-bd)
+                           Interactive Educational Portal & Resources tailored for BD Learners
 ```
 
 <div align="center">
-  <a href="https://github.com/pabeledp?tab=repositories"><strong>👉 View All Repositories 🚀</strong></a>
+  <a href="https://github.com/pabeledp?tab=repositories"><strong>👉 Explore All 17+ Repositories 🚀</strong></a>
 </div>
 
 ---
